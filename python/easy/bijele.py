@@ -1,4 +1,4 @@
-#!/usr/bin/evn python
+#!/usr/bin/env python
 
 def bijele(found):
     pieces = [1, 1, 2, 2, 2, 8]
